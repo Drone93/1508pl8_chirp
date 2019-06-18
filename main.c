@@ -1,6 +1,6 @@
 
 /*
-A program for chirp modulation (LFM) based on 1508PL8
+A program for chirp modulation (LFM) based on 1508PL8	xxxx
 Features SPI1:
 
 PA7 - MOSI
